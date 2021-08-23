@@ -1,0 +1,3 @@
+for i = 1,3000 do
+game:GetService("ReplicatedStorage"):FindFirstChild("_CS.Events").PayLoad:FireServer()
+end
